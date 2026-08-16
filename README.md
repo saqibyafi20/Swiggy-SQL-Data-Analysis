@@ -14,7 +14,7 @@ The project covers:<br>
 - KPI development<br>
 - Business analysis using SQL<br>
 
-The project follows the requirements provided for the Swiggy Sales Analysis case study. :contentReference[oaicite:0]{index=0}
+The project follows the requirements provided for the Swiggy Sales Analysis case study.
 
 ## 🗂️ Data Model
 
